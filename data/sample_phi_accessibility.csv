@@ -1,0 +1,51 @@
+source_subreddit,subreddit_group,device_brand,accessibility_taxonomy,assistive_technology,severity_label,severity_score,topic_name_v2
+blind,experts,Apple,Screen reader compatibility,Screen reader / VoiceOver,Critical,4,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Visual readability / contrast; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / Other,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / TalkBack,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility,Screen reader / VoiceOver,Unclear,0,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation; Privacy / safety concern,Screen reader / VoiceOver,High,3,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation; Privacy / safety concern,Screen reader / VoiceOver; Screen reader / TalkBack; Screen reader / Other,High,3,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Data visualization interpretation; Workaround / adaptation,Screen reader / VoiceOver; Braille,Low,1,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Notification / haptic feedback; Data visualization interpretation; Device pairing / synchronization; Workaround / adaptation,Screen reader / VoiceOver; Braille,High,3,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Device pairing / synchronization; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / Other,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Workaround / adaptation,Screen reader / VoiceOver,Unclear,0,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / Other,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Device pairing / synchronization; Workaround / adaptation,Screen reader / VoiceOver,High,3,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Data visualization interpretation; Workaround / adaptation,Screen reader / VoiceOver,Low,1,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver,High,3,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Device pairing / synchronization; Workaround / adaptation,Screen reader / VoiceOver; Braille,High,3,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Notification / haptic feedback; Workaround / adaptation,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Workaround / adaptation; Privacy / safety concern,Screen reader / VoiceOver; Screen reader / Other,Critical,4,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Device pairing / synchronization; Workaround / adaptation,Screen reader / VoiceOver,Critical,4,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Device pairing / synchronization,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Visual readability / contrast; Motor / dexterity interaction; Notification / haptic feedback; Workaround / adaptation,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility,Screen reader / VoiceOver,Low,1,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / TalkBack,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Notification / haptic feedback; Device pairing / synchronization; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / TalkBack,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Device pairing / synchronization; Workaround / adaptation,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Workaround / adaptation,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction,Screen reader / VoiceOver,Low,1,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Device pairing / synchronization; Workaround / adaptation,Screen reader / VoiceOver,Low,1,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver; Braille,Low,1,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility,Screen reader / VoiceOver; Screen reader / TalkBack; Screen reader / Other,Unclear,0,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver,High,3,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / TalkBack,Low,1,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Workaround / adaptation,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction,Screen reader / VoiceOver,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Workaround / adaptation,Screen reader / VoiceOver,Critical,4,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / Other,Unclear,0,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Device pairing / synchronization,Screen reader / VoiceOver; Screen reader / TalkBack; Screen reader / Other,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Workaround / adaptation,Screen reader / VoiceOver,Unclear,0,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver,Unclear,0,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / Other,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction,Screen reader / VoiceOver,Low,1,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / Other,High,3,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility,Screen reader / VoiceOver; Screen reader / Other,Low,1,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Data visualization interpretation; Device pairing / synchronization; Workaround / adaptation,Screen reader / VoiceOver,High,3,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Visual readability / contrast; Workaround / adaptation,Screen reader / VoiceOver; Screen reader / Other,Medium,2,Screen reader compatibility
+blind,experts,Apple,Screen reader compatibility; Motor / dexterity interaction; Device pairing / synchronization; Workaround / adaptation,Screen reader / TalkBack; Screen reader / Other,Critical,4,Screen reader compatibility
