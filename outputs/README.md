@@ -1,5 +1,11 @@
 # Outputs
 
-This folder stores processed pipeline outputs.
+This directory stores processed datasets and generated outputs.
 
-Generated files are excluded from version control when appropriate.
+Examples:
+
+- processed_phi_accessibility.csv
+- validation_report.json
+- pipeline_logs.txt
+
+Generated files are typically excluded from version control.
