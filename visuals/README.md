@@ -1,12 +1,41 @@
+## 🏗️ Data Processing Workflow
 
-# Visualizations
+```text
+Reddit Archive
+      ↓
+Data Collection
+      ↓
+Data Cleaning
+      ↓
+Accessibility Filtering
+      ↓
+Metadata Enrichment
+      ↓
+Quality Validation
+      ↓
+Topic Discovery
+      ↓
+Research-Ready Dataset
+      ↓
+Reporting & Visualization
 
-This directory stores charts, plots, dashboards, and architectural diagrams generated during analysis.
+````markdown
+## 🏗️ Pipeline Architecture
 
-Examples:
+![Pipeline Architecture](visuals/pipeline_architecture.png)
 
-- Device Distribution
-- Accessibility Barrier Frequency
-- Severity Analysis
-- Subreddit Distribution
-- Data Pipeline Architecture
+---
+
+## 📈 Project Visualizations
+
+### Device Distribution
+
+![Device Distribution](visuals/device_distribution.png)
+
+### Community Distribution
+
+![Subreddit Distribution](visuals/subreddit_distribution.png)
+
+### Accessibility Severity Distribution
+
+![Severity Distribution](visuals/severity_distribution.png)
