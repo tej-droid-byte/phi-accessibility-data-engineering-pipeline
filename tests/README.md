@@ -1,10 +1,13 @@
 ## 🧪 Testing
 
-Basic validation tests are included to ensure:
+The project includes lightweight unit tests for core pipeline components.
 
-- Dataset integrity
-- Missing value handling
-- Transformation logic
-- Data quality checks
+Current tests validate:
 
-Tests are implemented using Python unit testing practices and can be extended as the pipeline evolves.
+- Dataset row and column checks
+- Missing value detection
+- Text cleanup logic
+- Missing value standardization
+
+```bash
+pytest tests/
