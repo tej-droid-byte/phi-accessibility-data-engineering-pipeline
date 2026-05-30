@@ -1,11 +1,25 @@
-# Outputs
+## ✅ Pipeline Execution Example
 
-This directory stores processed datasets and generated outputs.
+Successful pipeline execution produced:
 
-Examples:
+| Metric | Result |
+|----------|----------|
+| Records Processed | 50 |
+| Columns Processed | 8 |
+| Missing Values | 0 |
+| CSV Output Generated | Yes |
+| Database Load Successful | Yes |
 
-- processed_phi_accessibility.csv
-- validation_report.json
-- pipeline_logs.txt
+### Workflow
 
-Generated files are typically excluded from version control.
+```text
+Extract
+↓
+Transform
+↓
+Validate
+↓
+Load (CSV)
+↓
+Load (Database)
+```
