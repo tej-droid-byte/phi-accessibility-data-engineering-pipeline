@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+spacy
+matplotlib
+seaborn
+presidio-analyzer
+presidio-anonymizer
+jupyter
+tqdm
+requests
