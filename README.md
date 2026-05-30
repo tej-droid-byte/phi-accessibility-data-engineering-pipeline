@@ -56,29 +56,26 @@ This project transforms unstructured user discussions into structured accessibil
 - User experience research
 - Health technology innovation
 
+
+## 🏗️ Pipeline Architecture
+
+![Pipeline Architecture](visuals/pipeline_architecture.png)
+
 ---
 
-## 🏗️ Data Processing Workflow
+## 📈 Project Visualizations
 
-```text
-Reddit Archive
-      ↓
-Data Collection
-      ↓
-Data Cleaning
-      ↓
-Accessibility Filtering
-      ↓
-Metadata Enrichment
-      ↓
-Quality Validation
-      ↓
-Topic Discovery
-      ↓
-Research-Ready Dataset
-      ↓
-Reporting & Visualization
-```
+### Device Distribution
+
+![Device Distribution](visuals/device_distribution.png)
+
+### Community Distribution
+
+![Subreddit Distribution](visuals/subreddit_distribution.png)
+
+### Accessibility Severity Distribution
+
+![Severity Distribution](visuals/severity_distribution.png)
 
 ## 📊 Dataset Scope
 
