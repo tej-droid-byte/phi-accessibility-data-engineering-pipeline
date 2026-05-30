@@ -1,15 +1,36 @@
 # Data Engineering Roadmap
 
-## Current State
-- Data Collection
-- Data Cleaning
-- Data Validation
-- Metadata Enrichment
-- Analytics
+## Current Capabilities
+
+- Multi-source data collection
+- Data cleaning and preprocessing
+- Accessibility signal extraction
+- Metadata enrichment
+- Quality validation
+- Analytics and reporting
 
 ## Planned Enhancements
-- PostgreSQL Storage Layer
-- Automated ETL Execution
-- Logging Framework
-- Monitoring & Alerting
-- Dashboard Integration
+
+### Storage Layer
+
+- PostgreSQL integration
+- Structured schema design
+- Automated data loading
+
+### Pipeline Orchestration
+
+- Modular ETL execution
+- Scheduled pipeline runs
+- Workflow monitoring
+
+### Reliability
+
+- Logging framework
+- Validation reporting
+- Error handling
+
+### Analytics
+
+- Dashboard development
+- Automated reporting
+- Trend monitoring
